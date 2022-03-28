@@ -1,0 +1,82 @@
+{
+    "product": [
+        {
+            "category": "Clothing",
+            "id": 1,
+            "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+            "price": 109.95,
+            "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops"
+        },
+        {
+            "category": "Clothing",
+            "id": 2,
+            "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+            "price": 22.3,
+            "title": "Mens Casual Premium Slim Fit T-Shirts "
+        },
+        {
+            "category": "electronics",
+            "id": 3,
+            "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+            "price": 109,
+
+            "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5"
+        },
+        {
+            "category": "electronics",
+            "id": 4,
+            "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+            "price": 209,
+            "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s"
+        },
+        {
+            "category": "electronics",
+            "id": 5,
+            "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+            "price": 114,
+            "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive"
+        },
+        {
+            "category": "stationary",
+            "id": 6,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUa0la0MSrifZBmwaxOX7d6HoUSFk4Bg4yfA&usqp=CAU",
+            "price": 108,
+            "title": "Natraj Pencil"
+        },
+        {
+            "category": "stationary",
+            "id": 7,
+            "image": "https://5.imimg.com/data5/KL/TH/MY-30911641/rubber-eraser-500x500.jpg",
+            "price": 106,
+            "title": "Apsara Eraser "
+        },
+        {
+            "category": "food",
+            "id": 8,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Mnboi_5UGU6JivnAPqc_RHXl6g5KmgrMbQ&usqp=CAU",
+            "price": 500,
+            "title": "Mango"
+        },
+        {
+            "category": "food",
+            "id": 9,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeldDpVFf6IQskzXkCF0JKvERtOjrzoj4KEA&usqp=CAU",
+            "price": 102,
+            "title": "Grapes"
+        },
+        {
+            "category": "food",
+            "id": 10,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeldDpVFf6IQskzXkCF0JKvERtOjrzoj4KEA&usqp=CAU",
+            "price": 210,
+            "title": "Orange"
+        },
+        {
+            "category": "food",
+            "id": 11,
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeldDpVFf6IQskzXkCF0JKvERtOjrzoj4KEA&usqp=CAU",
+            "price": 150,
+            "title": "Pineapple"
+        }
+    ]
+}
